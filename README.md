@@ -8,7 +8,7 @@ A beginner data analysis project exploring 300 rows of retail sales data across 
 
 ## Dashboard Output
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](dashboard output.png)
 
 ---
 
