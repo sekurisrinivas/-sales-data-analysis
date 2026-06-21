@@ -8,7 +8,6 @@ A beginner data analysis project exploring 300 rows of retail sales data across 
 
 ## Dashboard Output
 
-![Sales Dashboard](dashboard output.png)
 <img width="1114" height="814" alt="dashboard output" src="https://github.com/user-attachments/assets/44ee7734-776c-4a0f-a55c-4e4908115f52" />
 
 
