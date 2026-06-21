@@ -1,0 +1,301 @@
+Order_ID,Date,Product,Category,City,Quantity,Price,Payment_Method
+ORD0001,2024-02-22,Laptop,Electronics,Chennai,2,48842.44,Credit Card
+ORD0002,2024-04-21,Python Programming,Books,Mumbai,1,522.76,UPI
+ORD0003,2024-08-02,Kurta,Clothing,Chennai,5,944.4,Net Banking
+ORD0004,2024-06-23,Sneakers,Clothing,Bangalore,1,3664.56,Cash
+ORD0005,2024-07-13,Cooking Oil,Groceries,Delhi,3,171.69,UPI
+ORD0006,2024-08-23,Smartphone,Electronics,Hyderabad,5,35579.95,UPI
+ORD0007,2024-05-30,Python Programming,Books,Delhi,4,570.5,Net Banking
+ORD0008,2024-05-28,Fiction Novel,Books,Mumbai,1,312.26,Credit Card
+ORD0009,2024-11-21,Headphones,Electronics,Hyderabad,4,2791.55,Cash
+ORD0010,2024-11-07,Cooking Oil,Groceries,Hyderabad,2,178.66,UPI
+ORD0011,2024-05-18,Kurta,Clothing,Ahmedabad,2,972.97,Cash
+ORD0012,2024-06-10,Data Science Guide,Books,Chennai,1,641.62,UPI
+ORD0013,2024-12-01,Water Bottle,Home & Kitchen,Pune,5,320.79,Credit Card
+ORD0014,2024-03-12,Bedsheet,Home & Kitchen,Bangalore,4,895.82,Debit Card
+ORD0015,2024-07-23,Kurta,Clothing,Kolkata,5,930.24,Net Banking
+ORD0016,2024-01-25,Cooking Oil,Groceries,Ahmedabad,2,206.88,UPI
+ORD0017,2024-07-14,Headphones,Electronics,Delhi,4,2642.15,Cash
+ORD0018,2024-12-15,Self Help Book,Books,Mumbai,5,411.88,UPI
+ORD0019,2024-08-10,Fiction Novel,Books,Delhi,3,326.55,Debit Card
+ORD0020,2024-02-24,Sneakers,Clothing,Bangalore,3,3151.94,Net Banking
+ORD0021,2024-10-03,Coffee,Groceries,Pune,2,314.62,Credit Card
+ORD0022,2024-07-04,Python Programming,Books,Mumbai,4,523.82,UPI
+ORD0023,2024-09-05,Cooking Oil,Groceries,Delhi,5,164.61,UPI
+ORD0024,2024-03-25,Charger,Electronics,Ahmedabad,2,873.17,Net Banking
+ORD0025,2024-12-19,Coffee,Groceries,Chennai,4,334.31,Net Banking
+ORD0026,2024-08-19,Jacket,Clothing,Ahmedabad,3,2498.37,Net Banking
+ORD0027,2024-10-10,Headphones,Electronics,Mumbai,3,2390.44,Net Banking
+ORD0028,2024-02-04,Kurta,Clothing,Mumbai,1,858.59,Credit Card
+ORD0029,2024-04-19,Smartphone,Electronics,Hyderabad,2,29366.86,Cash
+ORD0030,2024-08-30,Data Science Guide,Books,Ahmedabad,5,647.42,Credit Card
+ORD0031,2024-07-29,Pressure Cooker,Home & Kitchen,Pune,4,1662.45,Cash
+ORD0032,2024-06-22,Mixer Grinder,Home & Kitchen,Mumbai,1,3418.69,Cash
+ORD0033,2024-08-04,Headphones,Electronics,Ahmedabad,5,2369.74,Credit Card
+ORD0034,2024-02-20,Jacket,Clothing,Ahmedabad,1,2538.13,Net Banking
+ORD0035,2024-07-27,Charger,Electronics,Chennai,1,887.21,Credit Card
+ORD0036,2024-07-13,Bedsheet,Home & Kitchen,Mumbai,4,761.8,Credit Card
+ORD0037,2024-12-22,Tablet,Electronics,Hyderabad,4,17393.41,Cash
+ORD0038,2024-10-23,Self Help Book,Books,Chennai,3,374.54,UPI
+ORD0039,2024-09-01,Python Programming,Books,Mumbai,1,542.41,Net Banking
+ORD0040,2024-02-05,Comic Book,Books,Delhi,5,186.93,Credit Card
+ORD0041,2024-10-18,Python Programming,Books,Kolkata,2,533.33,UPI
+ORD0042,2024-12-02,Kurta,Clothing,Delhi,5,942.72,Cash
+ORD0043,2024-05-02,Comic Book,Books,Chennai,3,205.11,Debit Card
+ORD0044,2024-02-07,Biscuits,Groceries,Ahmedabad,3,46.64,Debit Card
+ORD0045,2024-10-02,Tablet,Electronics,Delhi,5,18995.22,UPI
+ORD0046,2024-07-08,Kurta,Clothing,Delhi,3,868.7,Credit Card
+ORD0047,2024-11-30,Cooking Oil,Groceries,Hyderabad,5,181.72,Net Banking
+ORD0048,2024-03-09,Python Programming,Books,Hyderabad,5,532.42,UPI
+ORD0049,2024-05-24,Rice (5kg),Groceries,Bangalore,5,392.85,Debit Card
+ORD0050,2024-09-07,Data Science Guide,Books,Hyderabad,2,646.56,Net Banking
+ORD0051,2024-01-02,Rice (5kg),Groceries,Hyderabad,4,323.08,UPI
+ORD0052,2024-10-09,Cooking Oil,Groceries,Bangalore,3,190.67,Cash
+ORD0053,2024-01-19,Towel,Home & Kitchen,Bangalore,1,269.82,Net Banking
+ORD0054,2024-06-06,Coffee,Groceries,Bangalore,4,310.4,UPI
+ORD0055,2024-06-30,Rice (5kg),Groceries,Chennai,2,393.66,UPI
+ORD0056,2024-03-31,Self Help Book,Books,Chennai,2,456.24,Credit Card
+ORD0057,2024-05-16,Mixer Grinder,Home & Kitchen,Kolkata,3,3023.49,Credit Card
+ORD0058,2024-04-12,T-Shirt,Clothing,Ahmedabad,1,496.82,Credit Card
+ORD0059,2024-12-03,Water Bottle,Home & Kitchen,Chennai,2,341.7,UPI
+ORD0060,2024-11-24,Sneakers,Clothing,Hyderabad,1,3436.25,Debit Card
+ORD0061,2024-02-29,Self Help Book,Books,Pune,5,426.88,UPI
+ORD0062,2024-11-01,Cooking Oil,Groceries,Mumbai,3,188.13,UPI
+ORD0063,2024-09-18,Water Bottle,Home & Kitchen,Kolkata,3,378.75,Net Banking
+ORD0064,2024-12-28,Tablet,Electronics,Hyderabad,2,20247.77,UPI
+ORD0065,2024-08-08,Mixer Grinder,Home & Kitchen,Chennai,5,3295.94,Debit Card
+ORD0066,2024-06-07,Smartphone,Electronics,Hyderabad,1,33785.24,Net Banking
+ORD0067,2024-08-03,Water Bottle,Home & Kitchen,Bangalore,3,350.21,Credit Card
+ORD0068,2024-01-01,Pressure Cooker,Home & Kitchen,Kolkata,3,1896.98,Net Banking
+ORD0069,2024-08-14,Dal (1kg),Groceries,Pune,5,114.31,Cash
+ORD0070,2024-09-20,Pressure Cooker,Home & Kitchen,Delhi,2,1850.03,Debit Card
+ORD0071,2024-04-11,Fiction Novel,Books,Hyderabad,2,276.08,Credit Card
+ORD0072,2024-07-31,T-Shirt,Clothing,Delhi,4,454.87,Cash
+ORD0073,2024-05-04,Data Science Guide,Books,Ahmedabad,4,646.67,Cash
+ORD0074,2024-03-31,T-Shirt,Clothing,Kolkata,1,560.46,Credit Card
+ORD0075,2024-03-09,Self Help Book,Books,Delhi,2,364.11,Cash
+ORD0076,2024-11-09,Towel,Home & Kitchen,Pune,5,342.94,Cash
+ORD0077,2024-08-31,Self Help Book,Books,Ahmedabad,5,441.95,Credit Card
+ORD0078,2024-05-20,Water Bottle,Home & Kitchen,Ahmedabad,3,380.78,Credit Card
+ORD0079,2024-06-12,Mixer Grinder,Home & Kitchen,Hyderabad,2,3450.84,Debit Card
+ORD0080,2024-12-27,Python Programming,Books,Kolkata,2,466.36,Credit Card
+ORD0081,2024-02-01,T-Shirt,Clothing,Ahmedabad,3,500.85,Cash
+ORD0082,2024-07-13,Sneakers,Clothing,Mumbai,5,3489.79,Net Banking
+ORD0083,2024-10-02,Mixer Grinder,Home & Kitchen,Kolkata,3,3634.19,Cash
+ORD0084,2024-08-11,Comic Book,Books,Chennai,4,223.77,Debit Card
+ORD0085,2024-03-06,Mixer Grinder,Home & Kitchen,Bangalore,4,3191.09,Cash
+ORD0086,2024-11-25,Comic Book,Books,Mumbai,4,180.44,UPI
+ORD0087,2024-07-13,Pressure Cooker,Home & Kitchen,Mumbai,2,2010.08,Debit Card
+ORD0088,2024-08-03,Cooking Oil,Groceries,Kolkata,3,182.46,Debit Card
+ORD0089,2024-04-24,Rice (5kg),Groceries,Mumbai,5,356.15,Debit Card
+ORD0090,2024-11-14,Laptop,Electronics,Chennai,2,48985.12,UPI
+ORD0091,2024-12-24,Jeans,Clothing,Chennai,1,1210.09,Cash
+ORD0092,2024-06-08,Dal (1kg),Groceries,Delhi,5,113.03,Credit Card
+ORD0093,2024-04-11,Charger,Electronics,Kolkata,3,725.14,Cash
+ORD0094,2024-12-16,Charger,Electronics,Delhi,2,858.12,Debit Card
+ORD0095,2024-09-29,Python Programming,Books,Mumbai,5,548.43,Debit Card
+ORD0096,2024-09-07,Water Bottle,Home & Kitchen,Mumbai,3,321.03,Cash
+ORD0097,2024-03-31,Tablet,Electronics,Bangalore,4,20523.54,Cash
+ORD0098,2024-08-11,Fiction Novel,Books,Ahmedabad,5,315.14,Cash
+ORD0099,2024-08-18,Fiction Novel,Books,Delhi,2,293.19,Debit Card
+ORD0100,2024-09-10,Sneakers,Clothing,Pune,4,3647.58,UPI
+ORD0101,2024-05-23,Cooking Oil,Groceries,Hyderabad,3,183.94,Debit Card
+ORD0102,2024-05-03,Fiction Novel,Books,Chennai,5,310.65,UPI
+ORD0103,2024-08-17,Bedsheet,Home & Kitchen,Ahmedabad,2,830.0,Cash
+ORD0104,2024-12-05,Laptop,Electronics,Chennai,4,43810.15,Debit Card
+ORD0105,2024-10-08,Fiction Novel,Books,Pune,5,304.48,Cash
+ORD0106,2024-04-28,Dal (1kg),Groceries,Hyderabad,3,129.09,Debit Card
+ORD0107,2024-04-20,Headphones,Electronics,Bangalore,5,2447.22,Credit Card
+ORD0108,2024-04-09,Water Bottle,Home & Kitchen,Hyderabad,5,378.4,UPI
+ORD0109,2024-03-05,Cooking Oil,Groceries,Mumbai,3,178.24,Net Banking
+ORD0110,2024-11-22,Rice (5kg),Groceries,Hyderabad,5,400.25,Credit Card
+ORD0111,2024-09-02,Mixer Grinder,Home & Kitchen,Hyderabad,5,3578.18,Cash
+ORD0112,2024-02-28,Water Bottle,Home & Kitchen,Hyderabad,1,331.13,Cash
+ORD0113,2024-03-17,Tablet,Electronics,Mumbai,5,18412.86,Credit Card
+ORD0114,2024-08-01,Fiction Novel,Books,Delhi,2,275.47,Net Banking
+ORD0115,2024-08-14,Comic Book,Books,Kolkata,2,218.44,Cash
+ORD0116,2024-02-20,Coffee,Groceries,Mumbai,3,343.1,Net Banking
+ORD0117,2024-03-29,Jeans,Clothing,Bangalore,1,1255.04,Credit Card
+ORD0118,2024-08-28,Python Programming,Books,Ahmedabad,4,468.63,Net Banking
+ORD0119,2024-12-17,Rice (5kg),Groceries,Ahmedabad,3,335.25,UPI
+ORD0120,2024-02-28,Jacket,Clothing,Chennai,5,2741.3,Cash
+ORD0121,2024-01-31,Data Science Guide,Books,Bangalore,3,636.08,UPI
+ORD0122,2024-03-04,Jacket,Clothing,Hyderabad,5,2620.85,Cash
+ORD0123,2024-02-11,Water Bottle,Home & Kitchen,Ahmedabad,3,376.23,Cash
+ORD0124,2024-02-16,Python Programming,Books,Hyderabad,3,560.06,UPI
+ORD0125,2024-01-21,Kurta,Clothing,Hyderabad,1,941.06,Net Banking
+ORD0126,2024-10-26,Sneakers,Clothing,Hyderabad,4,3603.06,Credit Card
+ORD0127,2024-06-19,Bedsheet,Home & Kitchen,Pune,4,912.67,Cash
+ORD0128,2024-05-27,Rice (5kg),Groceries,Kolkata,3,390.05,Cash
+ORD0129,2024-06-14,Towel,Home & Kitchen,Pune,1,271.84,Debit Card
+ORD0130,2024-01-28,Tablet,Electronics,Ahmedabad,1,20092.1,Cash
+ORD0131,2024-04-14,Kurta,Clothing,Ahmedabad,4,890.41,UPI
+ORD0132,2024-03-03,Coffee,Groceries,Ahmedabad,3,278.89,Cash
+ORD0133,2024-01-08,Charger,Electronics,Hyderabad,2,879.86,Net Banking
+ORD0134,2024-11-27,Self Help Book,Books,Ahmedabad,1,368.4,UPI
+ORD0135,2024-09-04,Sneakers,Clothing,Hyderabad,3,3964.94,Cash
+ORD0136,2024-11-02,Pressure Cooker,Home & Kitchen,Kolkata,2,1825.55,Credit Card
+ORD0137,2024-09-16,Data Science Guide,Books,Kolkata,3,668.49,Debit Card
+ORD0138,2024-08-16,Rice (5kg),Groceries,Ahmedabad,3,339.75,Credit Card
+ORD0139,2024-06-13,Self Help Book,Books,Kolkata,5,393.53,Cash
+ORD0140,2024-06-11,Jeans,Clothing,Kolkata,2,1354.79,UPI
+ORD0141,2024-03-05,Bedsheet,Home & Kitchen,Ahmedabad,2,796.22,UPI
+ORD0142,2024-09-26,Comic Book,Books,Ahmedabad,1,195.62,UPI
+ORD0143,2024-08-28,Mixer Grinder,Home & Kitchen,Bangalore,4,3457.96,UPI
+ORD0144,2024-12-11,Dal (1kg),Groceries,Delhi,4,126.7,Debit Card
+ORD0145,2024-02-05,Self Help Book,Books,Mumbai,4,454.28,Net Banking
+ORD0146,2024-11-20,Jacket,Clothing,Kolkata,1,2872.24,UPI
+ORD0147,2024-06-15,Tablet,Electronics,Mumbai,3,16948.64,UPI
+ORD0148,2024-09-28,Smartphone,Electronics,Bangalore,4,31667.71,Credit Card
+ORD0149,2024-02-10,Towel,Home & Kitchen,Bangalore,2,320.06,Credit Card
+ORD0150,2024-03-14,Self Help Book,Books,Ahmedabad,2,420.92,Net Banking
+ORD0151,2024-08-26,Sneakers,Clothing,Hyderabad,4,3707.11,UPI
+ORD0152,2024-06-02,Coffee,Groceries,Pune,4,280.91,Net Banking
+ORD0153,2024-09-04,Water Bottle,Home & Kitchen,Chennai,3,354.97,Cash
+ORD0154,2024-01-12,Headphones,Electronics,Hyderabad,3,2488.35,Debit Card
+ORD0155,2024-04-27,Water Bottle,Home & Kitchen,Ahmedabad,1,315.71,Debit Card
+ORD0156,2024-11-17,Fiction Novel,Books,Hyderabad,2,285.47,Credit Card
+ORD0157,2024-07-05,Laptop,Electronics,Mumbai,4,43975.49,Net Banking
+ORD0158,2024-04-12,T-Shirt,Clothing,Kolkata,3,562.58,Credit Card
+ORD0159,2024-05-11,Kurta,Clothing,Hyderabad,3,1006.08,Credit Card
+ORD0160,2024-02-08,Water Bottle,Home & Kitchen,Delhi,3,380.32,Cash
+ORD0161,2024-07-21,Jeans,Clothing,Pune,4,1448.43,UPI
+ORD0162,2024-10-26,Smartphone,Electronics,Pune,4,33092.58,Debit Card
+ORD0163,2024-11-13,Water Bottle,Home & Kitchen,Ahmedabad,2,324.48,UPI
+ORD0164,2024-12-24,Fiction Novel,Books,Delhi,2,337.52,Cash
+ORD0165,2024-09-09,Biscuits,Groceries,Mumbai,1,46.46,Debit Card
+ORD0166,2024-08-20,Laptop,Electronics,Bangalore,5,43141.5,Cash
+ORD0167,2024-09-07,Coffee,Groceries,Kolkata,2,300.43,UPI
+ORD0168,2024-04-21,Self Help Book,Books,Mumbai,3,452.77,Debit Card
+ORD0169,2024-10-05,Bedsheet,Home & Kitchen,Delhi,3,908.97,Debit Card
+ORD0170,2024-02-16,Rice (5kg),Groceries,Delhi,2,349.84,Cash
+ORD0171,2024-03-05,Kurta,Clothing,Pune,1,1027.35,Credit Card
+ORD0172,2024-04-20,Data Science Guide,Books,Chennai,5,549.37,Net Banking
+ORD0173,2024-03-15,Jacket,Clothing,Mumbai,5,2732.89,Debit Card
+ORD0174,2024-03-08,Kurta,Clothing,Delhi,2,865.43,UPI
+ORD0175,2024-03-30,Smartphone,Electronics,Pune,2,35119.88,UPI
+ORD0176,2024-08-31,Rice (5kg),Groceries,Delhi,4,326.09,UPI
+ORD0177,2024-04-23,Water Bottle,Home & Kitchen,Ahmedabad,1,359.91,Net Banking
+ORD0178,2024-11-25,Python Programming,Books,Hyderabad,5,539.82,Cash
+ORD0179,2024-09-08,Laptop,Electronics,Kolkata,4,51734.1,UPI
+ORD0180,2024-03-05,Mixer Grinder,Home & Kitchen,Bangalore,3,3599.41,UPI
+ORD0181,2024-11-01,Coffee,Groceries,Pune,5,316.42,Cash
+ORD0182,2024-12-25,Fiction Novel,Books,Kolkata,5,303.02,UPI
+ORD0183,2024-04-26,Charger,Electronics,Kolkata,2,864.17,Cash
+ORD0184,2024-06-09,Water Bottle,Home & Kitchen,Kolkata,4,387.4,UPI
+ORD0185,2024-02-04,Water Bottle,Home & Kitchen,Bangalore,3,373.2,Cash
+ORD0186,2024-10-11,Laptop,Electronics,Pune,1,41548.84,Credit Card
+ORD0187,2024-07-29,Charger,Electronics,Pune,5,911.32,UPI
+ORD0188,2024-06-08,Biscuits,Groceries,Hyderabad,1,55.85,Net Banking
+ORD0189,2024-04-24,Rice (5kg),Groceries,Bangalore,2,365.57,Cash
+ORD0190,2024-10-20,Smartphone,Electronics,Delhi,3,35562.99,Debit Card
+ORD0191,2024-12-02,Sneakers,Clothing,Mumbai,5,3888.4,Net Banking
+ORD0192,2024-01-04,Rice (5kg),Groceries,Pune,3,330.79,Debit Card
+ORD0193,2024-11-20,Jeans,Clothing,Delhi,4,1353.01,Credit Card
+ORD0194,2024-08-20,Laptop,Electronics,Kolkata,2,48893.76,Cash
+ORD0195,2024-03-20,Cooking Oil,Groceries,Delhi,3,178.65,UPI
+ORD0196,2024-12-04,Kurta,Clothing,Hyderabad,1,820.28,Cash
+ORD0197,2024-09-19,Bedsheet,Home & Kitchen,Hyderabad,4,840.36,Credit Card
+ORD0198,2024-12-07,Smartphone,Electronics,Ahmedabad,3,32239.31,Net Banking
+ORD0199,2024-04-14,Rice (5kg),Groceries,Mumbai,5,334.3,UPI
+ORD0200,2024-03-02,Cooking Oil,Groceries,Hyderabad,3,196.53,Debit Card
+ORD0201,2024-09-29,Tablet,Electronics,Bangalore,2,19561.56,Cash
+ORD0202,2024-01-22,Kurta,Clothing,Delhi,3,934.67,Cash
+ORD0203,2024-08-07,Mixer Grinder,Home & Kitchen,Pune,1,3247.8,Net Banking
+ORD0204,2024-07-26,Self Help Book,Books,Hyderabad,4,429.87,UPI
+ORD0205,2024-02-15,Smartphone,Electronics,Ahmedabad,5,30174.99,Debit Card
+ORD0206,2024-02-10,Mixer Grinder,Home & Kitchen,Kolkata,5,3074.65,Net Banking
+ORD0207,2024-02-09,Water Bottle,Home & Kitchen,Pune,2,380.26,Credit Card
+ORD0208,2024-11-26,Python Programming,Books,Pune,2,515.29,Debit Card
+ORD0209,2024-11-04,Jeans,Clothing,Chennai,3,1202.49,Credit Card
+ORD0210,2024-10-23,T-Shirt,Clothing,Ahmedabad,4,471.2,Net Banking
+ORD0211,2024-03-18,Towel,Home & Kitchen,Pune,5,317.16,Debit Card
+ORD0212,2024-01-29,Mixer Grinder,Home & Kitchen,Hyderabad,3,3255.14,Net Banking
+ORD0213,2024-01-30,Coffee,Groceries,Ahmedabad,4,274.65,UPI
+ORD0214,2024-10-24,Dal (1kg),Groceries,Kolkata,1,110.3,Cash
+ORD0215,2024-11-05,Python Programming,Books,Chennai,5,505.2,Debit Card
+ORD0216,2024-06-24,Towel,Home & Kitchen,Ahmedabad,1,280.38,UPI
+ORD0217,2024-08-12,Charger,Electronics,Chennai,1,849.23,Cash
+ORD0218,2024-07-17,Comic Book,Books,Pune,3,209.44,Debit Card
+ORD0219,2024-06-17,Water Bottle,Home & Kitchen,Pune,1,374.4,UPI
+ORD0220,2024-03-17,Charger,Electronics,Hyderabad,3,855.68,Net Banking
+ORD0221,2024-12-01,Rice (5kg),Groceries,Pune,2,365.99,Debit Card
+ORD0222,2024-07-11,Pressure Cooker,Home & Kitchen,Hyderabad,1,1887.77,Net Banking
+ORD0223,2024-09-17,Cooking Oil,Groceries,Delhi,5,192.16,Cash
+ORD0224,2024-09-05,Rice (5kg),Groceries,Chennai,2,346.73,Debit Card
+ORD0225,2024-02-21,Jeans,Clothing,Delhi,2,1493.84,Debit Card
+ORD0226,2024-11-12,Comic Book,Books,Mumbai,5,220.65,Debit Card
+ORD0227,2024-03-25,Kurta,Clothing,Bangalore,2,893.77,Net Banking
+ORD0228,2024-05-25,Mixer Grinder,Home & Kitchen,Ahmedabad,2,3208.69,Net Banking
+ORD0229,2024-07-07,Pressure Cooker,Home & Kitchen,Ahmedabad,3,1860.31,Credit Card
+ORD0230,2024-09-27,Self Help Book,Books,Kolkata,3,405.15,Net Banking
+ORD0231,2024-01-27,Pressure Cooker,Home & Kitchen,Bangalore,5,1987.6,Debit Card
+ORD0232,2024-02-12,Water Bottle,Home & Kitchen,Delhi,1,363.52,Debit Card
+ORD0233,2024-02-16,Jacket,Clothing,Bangalore,5,2529.81,Cash
+ORD0234,2024-07-21,Sneakers,Clothing,Kolkata,1,3922.93,UPI
+ORD0235,2024-01-15,Fiction Novel,Books,Pune,1,286.72,Credit Card
+ORD0236,2024-01-20,Rice (5kg),Groceries,Bangalore,3,388.43,Credit Card
+ORD0237,2024-11-11,Biscuits,Groceries,Ahmedabad,2,53.7,Cash
+ORD0238,2024-11-07,Laptop,Electronics,Bangalore,2,40713.79,Net Banking
+ORD0239,2024-03-03,Self Help Book,Books,Chennai,3,370.19,Debit Card
+ORD0240,2024-02-26,Headphones,Electronics,Ahmedabad,5,2512.39,UPI
+ORD0241,2024-05-29,Towel,Home & Kitchen,Chennai,5,309.17,Credit Card
+ORD0242,2024-12-06,Mixer Grinder,Home & Kitchen,Kolkata,2,3371.85,Credit Card
+ORD0243,2024-08-28,Charger,Electronics,Mumbai,1,914.93,Cash
+ORD0244,2024-02-04,Tablet,Electronics,Mumbai,3,20614.68,Debit Card
+ORD0245,2024-01-23,Cooking Oil,Groceries,Pune,1,194.98,Credit Card
+ORD0246,2024-11-19,Coffee,Groceries,Ahmedabad,2,294.41,Cash
+ORD0247,2024-04-13,Jeans,Clothing,Mumbai,4,1189.59,Debit Card
+ORD0248,2024-07-22,Headphones,Electronics,Hyderabad,3,2803.62,Net Banking
+ORD0249,2024-01-25,Self Help Book,Books,Hyderabad,2,384.37,Debit Card
+ORD0250,2024-08-13,Dal (1kg),Groceries,Kolkata,3,111.73,Cash
+ORD0251,2024-09-22,Water Bottle,Home & Kitchen,Ahmedabad,4,400.2,Debit Card
+ORD0252,2024-04-02,Rice (5kg),Groceries,Kolkata,1,378.62,Net Banking
+ORD0253,2024-06-05,Fiction Novel,Books,Pune,1,293.11,Debit Card
+ORD0254,2024-08-16,Towel,Home & Kitchen,Ahmedabad,2,322.75,Debit Card
+ORD0255,2024-02-08,Smartphone,Electronics,Hyderabad,4,33718.81,UPI
+ORD0256,2024-11-07,Water Bottle,Home & Kitchen,Mumbai,2,359.9,Credit Card
+ORD0257,2024-07-15,Mixer Grinder,Home & Kitchen,Pune,2,2980.98,Debit Card
+ORD0258,2024-08-15,Python Programming,Books,Pune,4,524.59,Debit Card
+ORD0259,2024-11-28,Charger,Electronics,Kolkata,3,747.54,Debit Card
+ORD0260,2024-09-22,Cooking Oil,Groceries,Bangalore,1,205.22,Cash
+ORD0261,2024-11-09,Towel,Home & Kitchen,Ahmedabad,3,277.9,Credit Card
+ORD0262,2024-03-29,Biscuits,Groceries,Delhi,2,47.5,Cash
+ORD0263,2024-10-08,Mixer Grinder,Home & Kitchen,Pune,3,3528.41,UPI
+ORD0264,2024-09-17,Fiction Novel,Books,Bangalore,2,335.73,Debit Card
+ORD0265,2024-01-14,T-Shirt,Clothing,Chennai,2,572.0,Cash
+ORD0266,2024-02-14,Coffee,Groceries,Bangalore,4,311.88,Net Banking
+ORD0267,2024-10-21,Smartphone,Electronics,Kolkata,4,31985.28,Cash
+ORD0268,2024-12-14,Headphones,Electronics,Ahmedabad,1,2857.74,Cash
+ORD0269,2024-08-09,Fiction Novel,Books,Bangalore,5,278.69,Credit Card
+ORD0270,2024-03-25,Python Programming,Books,Bangalore,5,552.82,Debit Card
+ORD0271,2024-05-25,Jacket,Clothing,Pune,2,2833.08,Net Banking
+ORD0272,2024-11-16,Smartphone,Electronics,Hyderabad,5,30370.42,Credit Card
+ORD0273,2024-10-24,Coffee,Groceries,Bangalore,5,308.98,Net Banking
+ORD0274,2024-01-22,Jeans,Clothing,Pune,5,1383.02,Net Banking
+ORD0275,2024-10-19,Laptop,Electronics,Hyderabad,5,41011.45,Credit Card
+ORD0276,2024-09-04,Towel,Home & Kitchen,Hyderabad,4,316.86,Debit Card
+ORD0277,2024-08-13,Sneakers,Clothing,Mumbai,1,3409.28,Credit Card
+ORD0278,2024-06-12,Bedsheet,Home & Kitchen,Bangalore,3,811.87,Debit Card
+ORD0279,2024-05-03,Biscuits,Groceries,Delhi,3,46.63,Debit Card
+ORD0280,2024-01-26,Mixer Grinder,Home & Kitchen,Bangalore,2,3093.98,UPI
+ORD0281,2024-06-16,Biscuits,Groceries,Chennai,4,55.8,Credit Card
+ORD0282,2024-08-27,Fiction Novel,Books,Ahmedabad,2,283.29,Net Banking
+ORD0283,2024-08-22,Water Bottle,Home & Kitchen,Kolkata,1,358.52,Net Banking
+ORD0284,2024-09-10,Jeans,Clothing,Mumbai,1,1358.54,Debit Card
+ORD0285,2024-03-09,Self Help Book,Books,Delhi,1,387.6,Cash
+ORD0286,2024-01-27,Dal (1kg),Groceries,Mumbai,3,130.92,Cash
+ORD0287,2024-07-16,Comic Book,Books,Hyderabad,5,188.78,UPI
+ORD0288,2024-02-19,Self Help Book,Books,Delhi,3,435.35,Credit Card
+ORD0289,2024-04-11,Water Bottle,Home & Kitchen,Pune,3,384.55,Credit Card
+ORD0290,2024-03-11,Comic Book,Books,Mumbai,1,199.07,UPI
+ORD0291,2024-11-09,Biscuits,Groceries,Bangalore,2,51.49,Debit Card
+ORD0292,2024-06-21,Cooking Oil,Groceries,Hyderabad,5,179.68,Net Banking
+ORD0293,2024-01-09,Comic Book,Books,Hyderabad,5,205.58,Cash
+ORD0294,2024-11-01,Dal (1kg),Groceries,Hyderabad,4,128.21,UPI
+ORD0295,2024-10-25,Water Bottle,Home & Kitchen,Chennai,5,399.62,UPI
+ORD0296,2024-12-14,Pressure Cooker,Home & Kitchen,Kolkata,5,1855.9,Credit Card
+ORD0297,2024-08-13,T-Shirt,Clothing,Chennai,1,520.53,UPI
+ORD0298,2024-11-09,Biscuits,Groceries,Kolkata,2,46.89,Net Banking
+ORD0299,2024-06-15,Mixer Grinder,Home & Kitchen,Chennai,5,3444.62,Net Banking
+ORD0300,2024-06-24,Towel,Home & Kitchen,Ahmedabad,2,297.27,Net Banking
